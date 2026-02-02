@@ -6,24 +6,25 @@ I love combining creativity + technology to build meaningful, user-centered inte
 
 If an idea pops into my head, chances are I’ll try to build it ✨
 
-What I enjoy working on
+### 🚀 What I enjoy working on
+- Front End & interactive web experiences  
+- UI/UX with a creative touch  
+- 3D on the web, animation & gamification  
+- Projects with purpose and human impact  
 
-  Front End & interactive web experiences
-  
-  UI/UX with a creative touch
-  
-  3D on the web, animation & gamification
-  
-  Projects with purpose and human impact
+### 💻 Tech Stack
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+- Angular  
+- Tailwind CSS  
+- Bootstrap  
 
-Fun facts
-
-  Based in Vigo, Spain 🇪🇸
-  
-  Big fan of anime & creative coding
-  
-  Always learning something new
-  
-  Driven by feedback, collaboration, and growth
+### 🌱 Fun facts
+- Based in Vigo, Spain  
+- Big fan of anime, cinema and books  
+- Always learning something new  
+- Driven by feedback, collaboration, and growth  
 
 Let’s build cool things together 🚀
