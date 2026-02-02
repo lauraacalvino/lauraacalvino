@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I’m Laura, a Front End developer in training with a creative background in 3D, animation, and digital experiences.
+I’m Laura, a Front End developer with a creative background in 3D, animation, and digital experiences.
 
-I love combining creativity + technology to build meaningful, user-centered interfaces. Currently looking for a Front End internship while finishing my Master in Front End Design & Development.
+I love combining creativity + technology to build meaningful, user-centered interfaces.
 
 If an idea pops into my head, chances are I’ll try to build it ✨
 
