@@ -27,4 +27,4 @@ If an idea pops into my head, chances are I’ll try to build it ✨
 - Always learning something new  
 - Driven by feedback, collaboration, and growth  
 
-Let’s build cool things together 🚀
+Let’s build cool things together 🌟
