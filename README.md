@@ -18,7 +18,6 @@ If an idea pops into my head, chances are I’ll try to build it ✨
 - JavaScript  
 - React  
 - Angular  
-- Tailwind CSS  
 - Bootstrap  
 
 ### 🌱 Fun facts
