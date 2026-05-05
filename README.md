@@ -18,11 +18,11 @@ If an idea pops into my head, chances are I’ll try to build it ✨
 - JavaScript  
 - React  
 - Angular  
-- Bootstrap  
+- Next.js  
 
 ### 🌱 Fun facts
 - Based in Vigo, Spain  
-- Big fan of anime, cinema and books  
+- Big fan of anime, videogames and books  
 - Always learning something new  
 - Driven by feedback, collaboration, and growth  
 
