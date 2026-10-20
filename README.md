@@ -17,8 +17,9 @@ If an idea pops into my head, chances are I’ll try to build it ✨
 - CSS  
 - JavaScript  
 - React  
-- Angular  
-- Next.js  
+- Fiber 3D
+- Next.js
+- Unreal Engine
 
 ### 🌱 Fun facts
 - Based in Vigo, Spain  
