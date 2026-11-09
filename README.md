@@ -29,5 +29,3 @@ If an idea pops into my head, chances are I’ll try to build it ✨
 
 Let’s build cool things together 🌟
 
-
-![Uploading behance_banner.png…]()
